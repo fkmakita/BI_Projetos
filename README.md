@@ -1,7 +1,7 @@
-# Power BI Projetos
-Neste repositório você irá encontrar alguns projetos desenvolvidos em Power BI<br>
+# Projetos de BI
+Neste repositório você irá encontrar alguns projetos de BI<br>
 
-### Projeto 1
+### Projeto 1 - Power BI
 
 O projeto 1 consiste em uma releitura do Projeto 2 de Excel, onde desenvolvi um Dashboard de controle de rotas de transporte de produtos. Ao desenvolver o Projeto 2 dentro do Excel, senti que algumas features do Power BI trariam uma visualização mais clara e poderia ser desenvolvida mais rapidamente.<br><br>
 O projeto foi separado em 2 abas:<br>
@@ -11,7 +11,7 @@ Painel de Logística com alguns Big Numbers, gráficos e filtros.
 Painel de Base de Dados com a tabela de origem e alguns filtros para facilitar a leitura de informações relevantes.
 ![image](https://user-images.githubusercontent.com/86500603/233859110-bbaf4eba-bbba-43c5-b663-d0b8b07b88b3.png)
 
-### Projeto 2
+### Projeto 2 - Documentação BI
 
 O projeto 2 é sobre alguns aspectos relevantes durante um projeto de BI, principalmente a importância de documentação durante a execução. Achei interessante trazer este modelo de documentação que aprendi durante o curso da [Google Business Intelligence Certificate](https://www.credly.com/badges/3a701dce-77e2-4348-a2e9-123877ca986b/linked_in_profile) pois através deste modelo é possível tornar mais claro o que será feito no projeto. Em um primeiro momento, foram simuladas pequenas reuniões com os Stakeholders do projeto, definindo o escopo do projeto e os primeiros passos a serem tomados. Com isso em mente, temos a separação da documentação em 3 templates: Documento de requisitos do Stakeholder, Documento de requisitos do Projeto e Documento Estratégico.
 <br><br>
