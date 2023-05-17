@@ -1,5 +1,5 @@
 # Projetos de BI
-Neste repositório você irá encontrar alguns projetos de BI<br>
+Neste repositório você irá encontrar alguns projetos/desafios de BI<br>
 
 ### Projeto 1 - Power BI
 
@@ -22,5 +22,9 @@ O [Documento Estratégico](https://docs.google.com/document/d/1EGlLzmL7Gqn3oPVf2
 Exemplo de um Mockup<br>
 ![image](https://user-images.githubusercontent.com/86500603/236051782-177db80a-35f4-46a5-9ada-751a294ff9cd.png)
 
+### Projeto 3 - Desafio BI
 
-### Projeto 3 - WIP
+O projeto 3 é um desafio desenvolvido durante um processo seletivo para uma vaga de Analista de BI Jr. A proposta se baseava em um sistema de integração para originadores de venda e foi separada em duas etapas:<br><br>
+1 - Desenvolver um diagrama do Datamart<br>
+2 - Desenvolver um mockup de como o Dashboard seria implementado<br><br>
+Para mais detalhes, a documentação mais detalhada do projeto, requisitos e motivações podem ser encontradas neste [link](https://github.com/fkmakita/Desafio_BI).
