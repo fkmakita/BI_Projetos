@@ -28,3 +28,5 @@ O projeto 3 é um desafio desenvolvido durante um processo seletivo para uma vag
 1 - Desenvolver um diagrama do Datamart<br>
 2 - Desenvolver um mockup de como o Dashboard seria implementado<br><br>
 Para mais detalhes, a documentação mais detalhada do projeto, requisitos e motivações podem ser encontradas neste [link](https://github.com/fkmakita/Desafio_BI).
+
+### Projeto 4 - WIP
